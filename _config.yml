@@ -18,21 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: EX09- Mahati Desabhatla and Sneha Singhal
+email: mdesabha@unc.edu and singhals@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A data analysis project for COMP110 exploring how prior programming experience affects student perception of difficulty and understanding in an introductory CS course, using real survey data from 534 UNC students.
 baseurl: "/ex09"
 url: "mdesabha.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ""
+github_username:  mdesabha
 
 # Build settings
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
-
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 #- jekyll-feed

@@ -6,7 +6,7 @@ title: Does Prior Experience Change How Hard COMP110 Feels?
 # Does Prior Experience Change How Hard COMP110 Feels?
 
 **Course:** COMP110 — Spring 2026  
-**Authors:** Your Name, Partner Name  
+**Authors:** Mahati Desabhatla, Sneha Singhal
 
 ---
 
